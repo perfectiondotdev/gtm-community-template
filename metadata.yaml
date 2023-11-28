@@ -15,5 +15,5 @@
 homepage: "https://www.perfection.dev"
 documentation: "https://docs.perfection.dev"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 1b4fdcaa943085facb00aed2b7d4a5c632e37955
     changeNotes: Initial Version
